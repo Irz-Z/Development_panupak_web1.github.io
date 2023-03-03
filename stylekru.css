@@ -1,0 +1,15 @@
+A:link {
+	COLOR: #0000cc; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #339900; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: Fuchsia;
+	TEXT-DECORATION: underline;
+}
+A:hover {
+	FONT-WEIGHT: bold;
+	COLOR: Green;
+	TEXT-DECORATION: underline;
+}
